@@ -1,0 +1,7 @@
+F: Hi Karthick
+K: Hi Fabrizio
+F: How are you?
+K: Fine and you?
+F: All is fine
+K: Let's catch up at the office
+F: See you then
