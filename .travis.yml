@@ -1,0 +1,14 @@
+language: java
+sudo: false
+jdk:
+  - oraclejdk8
+  - openjdk8
+notifications:
+  email:
+    recipients:
+      - hellgate75@gmail.com
+      - hellgate75.verizon@gmail.com
+    on_success: never
+    on_failure: always
+#script:
+# - mv build javadoc source
